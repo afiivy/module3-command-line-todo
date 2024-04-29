@@ -4,7 +4,8 @@
   "description": "Commmad line todo application with all its features",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'We really need to add some testing!!!'"
+    "test": "echo 'We really need to add some testing!!!'",
+    "start":"node index.js"
   },
   "repository": {
     "type": "git",
