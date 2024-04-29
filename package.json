@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/afiivy/module3-website-todo-list/issues"
   },
-  "homepage": "https://github.com/afiivy/module3-website-todo-list#readme"
+  "homepage": "https://github.com/afiivy/module3-website-todo-list#readme",
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
 }
